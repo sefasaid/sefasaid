@@ -74,3 +74,10 @@
 
 [linkedin]: https://linkedin.com/in/sefa-said-deniz/
 [github]: https://github.com/sefasaid
+
+
+
+### 📊 GitHub Analytics
+
+[![sefasaid.github.io](https://github-readme-stats.vercel.app/api?username=sefasaid&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true) ![sefasaid.github.io](https://github-readme-stats.vercel.app/api/top-langs?username=sefasaid&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia)](https://sefasaid.github.io/) 
+
