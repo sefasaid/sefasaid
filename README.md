@@ -3,17 +3,10 @@
 ## I'm fullstack developer.
 
 
-- 🔭 I’m currently working on sendatic.com / It's a saas startup for e-commerce websites
-- 🌱 I’m currently learning React Native, And creating a startup
-- 🥅 2021 Goals: Contribute more to Open Source projects and success with my startup
+- 🔭 I’m currently working on hidemy.ml / It's a email service for clean inbox
+
 - ⚡ Fun fact: I'm obsessive to work. I'm working more than one project. And I have 3d Printer for doing awesome projects
 - 📫 How to reach me: sefasaiddeniz1@gmail.com
-
-### What Can I Do:
-- <img align="left" alt="Website" width="26px" src="https://www.pngkey.com/png/full/18-185192_png-50-px-website-icon-blue.png" />  I can create websites or api with php / nodejs
--  <img align="left" alt="Mobile" width="26px" src="https://www.vippng.com/png/detail/10-103323_phone-icons-teal-mobile-app-icon-transparent-background.png" />  I can create mobile apps with Ionic / React Native 
--  <img align="left" alt="Database" width="26px" src="https://i.pinimg.com/originals/ac/4c/2d/ac4c2d3352860211063e15949e41cdb0.png" />  I can design database with Mysql / Mongodb
--  <img align="left" alt="Server" width="26px" src="https://d3vlyaljhwga45.cloudfront.net/web-media/upload/docker.png" />  I can manage server with Docker 
 
 
 ### Connect with me:
